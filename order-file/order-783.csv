@@ -1,0 +1,13 @@
+NÚMERO PEDIDO,REFERENCIA,CANTIDAD,PRECIO (IVA INCLUIDO),TALLA,COLOR 1,COLOR 2,COLOR 3,COLOR 4,COLOR 5,COLOR 6,COLOR 7,COLOR 8,COLOR 9
+783,woo-beanie,1,18000,8,Gray,Negro,Red,Yellow
+783,woo-beanie,8,18000,10,Gray,Negro,Red,Yellow
+783,woo-beanie,11,18000,12,Gray,Negro,Red,Yellow
+783,woo-beanie,1,18000,L,Gray,Negro,Red,Yellow
+783,woo-beanie,1,18000,S,Gray,Negro,Red,Yellow
+783,woo-beanie,1,18000,XL,Gray,Negro,Red,Yellow
+783,woo-cap,1,45000,8,Yellow
+783,woo-cap,8,45000,10,Yellow
+783,woo-cap,11,45000,12,Yellow
+783,woo-cap,1,45000,L,Yellow
+783,woo-cap,1,45000,S,Yellow
+783,woo-cap,1,45000,XL,Yellow
